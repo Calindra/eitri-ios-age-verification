@@ -1,0 +1,227 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "EitriAgeVerification",
+    "printedName": "EitriAgeVerification",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EitriAgeVerification"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EitriAgeVerification"
+      },
+      {
+        "kind": "Import",
+        "name": "DeclaredAgeRange",
+        "printedName": "DeclaredAgeRange",
+        "declKind": "Import",
+        "moduleName": "EitriAgeVerification"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "EitriAgeVerification"
+      },
+      {
+        "kind": "Import",
+        "name": "DeclaredAgeRange",
+        "printedName": "DeclaredAgeRange",
+        "declKind": "Import",
+        "moduleName": "EitriAgeVerification"
+      },
+      {
+        "kind": "Import",
+        "name": "EitriContracts",
+        "printedName": "EitriContracts",
+        "declKind": "Import",
+        "moduleName": "EitriAgeVerification"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "EitriAgeVerification"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AgeVerificationModule",
+        "printedName": "AgeVerificationModule",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AgeVerificationModule",
+                "printedName": "EitriAgeVerification.AgeVerificationModule",
+                "usr": "s:20EitriAgeVerification0bC6ModuleC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:20EitriAgeVerification0bC6ModuleCACycfc",
+            "mangledName": "$s20EitriAgeVerification0bC6ModuleCACycfc",
+            "moduleName": "EitriAgeVerification",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "version",
+            "printedName": "version()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ModuleVersion",
+                "printedName": "EitriContracts.ModuleVersion",
+                "usr": "s:14EitriContracts13ModuleVersionV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20EitriAgeVerification0bC6ModuleC7version0A9Contracts0D7VersionVyF",
+            "mangledName": "$s20EitriAgeVerification0bC6ModuleC7version0A9Contracts0D7VersionVyF",
+            "moduleName": "EitriAgeVerification",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "namespace",
+            "printedName": "namespace()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20EitriAgeVerification0bC6ModuleC9namespaceSSyF",
+            "mangledName": "$s20EitriAgeVerification0bC6ModuleC9namespaceSSyF",
+            "moduleName": "EitriAgeVerification",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(contextProvider:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "EitriContextProvider",
+                "printedName": "any EitriContracts.EitriContextProvider",
+                "usr": "s:14EitriContracts0A15ContextProviderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20EitriAgeVerification0bC6ModuleC5start15contextProvidery0A9Contracts0a7ContextG0_p_tKF",
+            "mangledName": "$s20EitriAgeVerification0bC6ModuleC5start15contextProvidery0A9Contracts0a7ContextG0_p_tKF",
+            "moduleName": "EitriAgeVerification",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:20EitriAgeVerification0bC6ModuleC",
+        "mangledName": "$s20EitriAgeVerification0bC6ModuleC",
+        "moduleName": "EitriAgeVerification",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "EitriModule",
+            "printedName": "EitriModule",
+            "usr": "s:14EitriContracts0A6ModuleP",
+            "mangledName": "$s14EitriContracts0A6ModuleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/calindra\/Desktop\/atlassian-bitbucket-pipelines-runner\/temp\/b0895d66-2c03-5dc0-93b7-79040f97a239\/build\/ios\/modules\/eitri-ios-age-verification\/EitriAgeVerification\/Services\/AgeVerificationService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1057,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/calindra\/Desktop\/atlassian-bitbucket-pipelines-runner\/temp\/b0895d66-2c03-5dc0-93b7-79040f97a239\/build\/ios\/modules\/eitri-ios-age-verification\/EitriAgeVerification\/Services\/AgeVerificationService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1061,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/calindra\/Desktop\/atlassian-bitbucket-pipelines-runner\/temp\/b0895d66-2c03-5dc0-93b7-79040f97a239\/build\/ios\/modules\/eitri-ios-age-verification\/EitriAgeVerification\/Services\/AgeVerificationService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1065,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/calindra\/Desktop\/atlassian-bitbucket-pipelines-runner\/temp\/b0895d66-2c03-5dc0-93b7-79040f97a239\/build\/ios\/modules\/eitri-ios-age-verification\/EitriAgeVerification\/Services\/AgeVerificationService.swift",
+      "kind": "StringLiteral",
+      "offset": 1204,
+      "length": 45,
+      "value": "\"AgeVerificationService.user.not.sharing.age\""
+    },
+    {
+      "filePath": "\/Users\/calindra\/Desktop\/atlassian-bitbucket-pipelines-runner\/temp\/b0895d66-2c03-5dc0-93b7-79040f97a239\/build\/ios\/modules\/eitri-ios-age-verification\/EitriAgeVerification\/Services\/AgeVerificationService.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1257,
+      "length": 1,
+      "value": "1"
+    }
+  ]
+}
