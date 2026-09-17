@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "EitriAgeVerification",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v15)
     ],
     products: [
         // O produto final inclui tanto o binário quanto as dependências transitivas

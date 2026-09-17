@@ -6,7 +6,7 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		qv/mqKFNx76teWButgKaJ2rdPWQ=
+		VsLLuyFdWHmo0my9Nb/nvOTsMK8=
 		</data>
 		<key>Modules/EitriAgeVerification.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -14,19 +14,19 @@
 		</data>
 		<key>Modules/EitriAgeVerification.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		9a2HOJvd3ysJ8nHkMMi7x+WxUMU=
+		NSMiDPEj3SpY3S4wwRQroQfOoQY=
 		</data>
 		<key>Modules/EitriAgeVerification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		xVNY7Mpg18vc3qX52008AgAJlVA=
+		zBb/KJQ/Gjxz4DtCOx//1vC+WFw=
 		</data>
 		<key>Modules/EitriAgeVerification.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		9a2HOJvd3ysJ8nHkMMi7x+WxUMU=
+		NSMiDPEj3SpY3S4wwRQroQfOoQY=
 		</data>
 		<key>Modules/EitriAgeVerification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		JyWwSwdBk6DBhX8E9tHzL8m/MIk=
+		J6hX4NIioZgISWzX0pHoIuFGOd4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -42,28 +42,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ARHfaU/wj8LNDG02a6c83lwmQFF9c/X2CWdLGrCuo40=
+			Qi9tkkiu9UlyTjzl9Sko12UnbpqQJoklGJEMB3gOlpY=
 			</data>
 		</dict>
 		<key>Modules/EitriAgeVerification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OM8OgMumKQ0NTMxlGPhO16z2l7u2ZM7SQXT6/7HdhE0=
+			w7jVTUrl6GwP3lPUu31CoVFFiphTQwnzESJpRHbWNk4=
 			</data>
 		</dict>
 		<key>Modules/EitriAgeVerification.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ARHfaU/wj8LNDG02a6c83lwmQFF9c/X2CWdLGrCuo40=
+			Qi9tkkiu9UlyTjzl9Sko12UnbpqQJoklGJEMB3gOlpY=
 			</data>
 		</dict>
 		<key>Modules/EitriAgeVerification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V6WJxQgTbMvANqVO7WxOuTLizObE3Ll1RIsNVT5v554=
+			LX3fOnLSKzFXe5rEcSdlBQ1Z+u5TdxPHFBeHrj0e1WY=
 			</data>
 		</dict>
 	</dict>
